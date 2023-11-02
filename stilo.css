@@ -1,0 +1,116 @@
+.imagem{
+    border-radius: 20%;
+}
+.imagem02{
+    border-radius: 20%;
+
+}
+.imagem03{
+    border-radius: 20%;
+
+}
+.imagem04{
+    border-radius: 20%;
+
+}
+.imagem04{
+    border-radius: 20%;
+
+}
+.imagem05{
+    border-radius: 20%;
+
+}
+.imagem06{
+
+    margin-top: 30px;
+    border-radius:20%;
+    margin-bottom: 50px;
+}
+.i {
+    border-radius: 100%;
+}
+.w{
+    border-radius: 100%;
+
+}
+.c{
+    border-radius: 100%;
+
+}
+.h3{
+    margin-top: 100px;
+    text-align: center;
+}
+
+
+
+
+.WhatsApp{
+background-color: rgb(255, 255, 255);
+border: 100%;
+border-radius: 100%;
+margin-top: 5px;
+margin-right: 10px;
+margin-bottom: 50px;
+border-color: white;
+
+}
+
+.contato{
+background-color: rgb(255, 255, 255);
+border-radius: 100%;
+border-color: white;
+
+
+}
+.instagram{
+background-color: rgb(255, 255, 255);
+border-radius: 100%;
+border-color: white;
+
+
+
+
+}
+
+body {
+    background: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+h1 {
+    background: rgb(1, 0, 36);
+    border-radius: 10%;
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+
+}
+ul {
+    list-style-type: none;
+    
+}
+li {
+    display: inline;
+    margin-right: 20px;
+}
+li a{
+  color: white;
+  text-decoration: none;
+}
+h2{
+    border-radius: 10%;
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-top: 50px;
+}
+p{
+  color: rgb(7, 7, 7);
+  text-align: center;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
